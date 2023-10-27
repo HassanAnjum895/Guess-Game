@@ -1,0 +1,14 @@
+C:\Users\HassanA\source\repos\GuesGame\bin\Debug\net6.0\GuesGame.exe
+C:\Users\HassanA\source\repos\GuesGame\bin\Debug\net6.0\GuesGame.deps.json
+C:\Users\HassanA\source\repos\GuesGame\bin\Debug\net6.0\GuesGame.runtimeconfig.json
+C:\Users\HassanA\source\repos\GuesGame\bin\Debug\net6.0\GuesGame.dll
+C:\Users\HassanA\source\repos\GuesGame\bin\Debug\net6.0\GuesGame.pdb
+C:\Users\HassanA\source\repos\GuesGame\obj\Debug\net6.0\GuesGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HassanA\source\repos\GuesGame\obj\Debug\net6.0\GuesGame.AssemblyInfoInputs.cache
+C:\Users\HassanA\source\repos\GuesGame\obj\Debug\net6.0\GuesGame.AssemblyInfo.cs
+C:\Users\HassanA\source\repos\GuesGame\obj\Debug\net6.0\GuesGame.csproj.CoreCompileInputs.cache
+C:\Users\HassanA\source\repos\GuesGame\obj\Debug\net6.0\GuesGame.dll
+C:\Users\HassanA\source\repos\GuesGame\obj\Debug\net6.0\refint\GuesGame.dll
+C:\Users\HassanA\source\repos\GuesGame\obj\Debug\net6.0\GuesGame.pdb
+C:\Users\HassanA\source\repos\GuesGame\obj\Debug\net6.0\GuesGame.genruntimeconfig.cache
+C:\Users\HassanA\source\repos\GuesGame\obj\Debug\net6.0\ref\GuesGame.dll
